@@ -12,5 +12,8 @@
 [index10.html](basic/index10.html)<br>
 
 ---
+## Aula do dia 16/11/2021
+
+<iframe width="100%" height="375.9375" frameborder="0" src="https://observablehq.com/embed/d2f5d7b1a3b28c61?cells=bar_chart"></iframe> <iframe width="100%" height="386.875" frameborder="0" src="https://observablehq.com/embed/d2f5d7b1a3b28c61?cells=scatter_chart"></iframe>
 
 Para saber mais sobre a sintaxe markdown, veja [este guia](https://guides.github.com/features/mastering-markdown/).
